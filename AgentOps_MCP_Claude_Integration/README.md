@@ -2,7 +2,6 @@
 
 This guide will help you set up and run the **AgentOps MCP Claude** integration.
 
-## [Demo Video](https://drive.google.com/file/d/1fE46IP01f0yr0hD4BlxNoChxP87Fq9Q4/view?usp=sharing)
 
 ## 📌 Setup Instructions
 
@@ -58,3 +57,4 @@ Open **Claude Desktop** and try sample prompts:
 
 Go to the [AgentOps Dashboard](https://app.agentops.ai) → **Traces** section
 to view the prompts and execution updates.
+
