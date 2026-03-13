@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+      "agentops-calculator": {
+        "command": "python",
+        "args": [
+          "your_path_of_python_file"
+        ],
+        "env": {
+          "AGENTOPS_API_KEY": "your_agentops_api_key"
+        }
+      }
+    }
+}
