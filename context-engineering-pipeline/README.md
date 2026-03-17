@@ -29,8 +29,3 @@ Follow these steps one by one:
 ```bash
 uv sync
 ```
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
-
-## Contribution
-
-Contributions are welcome! Feel free to fork this repository and submit pull requests with your improvements.
