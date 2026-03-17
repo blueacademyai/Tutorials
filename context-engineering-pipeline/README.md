@@ -2,7 +2,8 @@
 
 This project demonstrates **Context Engineering**—a sophisticated approach to building AI systems that intelligently manage and utilize context from multiple sources. The demo showcases how to combine Retrieval Augmented Generation (RAG), tool calling, and advanced memory management to create context-aware AI agents that can answer questions accurately using both external knowledge and conversation history.
 
-![Context Engineering Pipeline]([<img width="1185" height="896" alt="Context_engineering_pipeline" src="https://github.com/user-attachments/assets/1bdf405c-32d8-4d59-ad11-8292c86c7a97" />](https://github.com/blueacademyai/Tutorials/blob/main/context-engineering-pipeline/Context_engineering_pipeline.png)
+# [Context Engineering Pipeline]
+[<img width="1185" height="896" alt="Context_engineering_pipeline" src="https://github.com/user-attachments/assets/1bdf405c-32d8-4d59-ad11-8292c86c7a97" />](https://github.com/blueacademyai/Tutorials/blob/main/context-engineering-pipeline/Context_engineering_pipeline.png)
 
 How It Works:
 
